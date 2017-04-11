@@ -1,0 +1,39 @@
+.kuangkuang {
+
+    margin: 0px;
+    text-align: center;
+}
+
+.user-input {
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 2px solid #e1e1e1;
+    text-indent: 30px;
+    width: 100%;
+    font-size: 2em;
+    outline: 0;
+}
+
+.waibu {
+    /*border: 2px solid #cccccc;*/
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    box-shadow: 0px 1px 10px #666;
+}
+
+.tijiao {
+    font-size: 1em;
+    text-indent: 0px;
+    width: 100%;
+    font-size: 1.5em;
+    padding: 8px;
+    cursor: pointer;
+}
+.tijiao:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 1px 10px #666;
+}
+.waibu:hover{
+    box-shadow: 0px 1px 20px #666;
+}
